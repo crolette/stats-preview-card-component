@@ -43,7 +43,7 @@ I am always struggling with responsive layout. Need to improve or find a better 
 ## Author
 
 - Website - [Crolweb](https://www.crolweb.be)
-- Frontend Mentor - [@crolette](https://www.frontendmentor.io/profile/crolette)
-- Codepen - [@crolette](https://codepen.io/crolette/pens/)
-- LinkedIn - [@Jonathan](https://www.linkedin.com/in/jonathan-de-dijcker-6a7b1532/)
+- Frontend Mentor - [crolette](https://www.frontendmentor.io/profile/crolette)
+- Codepen - [crolette](https://codepen.io/crolette/pens/)
+- LinkedIn - [Jonathan](https://www.linkedin.com/in/jonathan-de-dijcker-6a7b1532/)
 
